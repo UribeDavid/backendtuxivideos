@@ -1,0 +1,74 @@
+[
+    {
+        "id":"1",
+        "title":"Saw",
+        "description":"An old man is a psycho who kidnap people",
+        "actors": ["Tobin Bell","Hannah Anderson","Laura Vandervoort"],
+        "director":"Michael Spierig",
+        "stock":"0",
+        "img":"https://www.enter.co/wp-content/uploads/2017/10/saw-legacy-jigsaw.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Avengers",
+        "description":"A group of super heroes get together to save the world",
+        "actors": ["Scarlett Johansson", "Robert Downey Jr.","Chris Evans"],
+        "director":"Joss Whedon",
+        "stock":"0",
+        "img":"https://cdn.onebauer.media/one/empire-tmdb/films/24428/images/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg"
+    },
+    {
+        "id":"3",
+        "title":"Godzilla vs Kong",
+        "description":"Godzilla and Kong, two of the more powerful forces on a planet inhabited by terrifying creatures",
+        "actors": ["Alexander Skarsgard","Millie Bobby Brown","Rebecca Hall"],
+        "director":"Adam Wingard",
+        "stock":"0",
+        "img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRylBTg1QiMbmw9i9DzDbqK74WDVUbPzIMPOKcV7TWkXgL-lrnW"
+    },
+    {
+        "id":"4",
+        "title":"Joker",
+        "description":"In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime.",
+        "actors": ["Joaquin Phoenix","Robert de Niro","Zazie Beetz"],
+        "director":"Todd Phillips",
+        "stock":"9",
+        "img":"https://as01.epimg.net/meristation/imagenes/2019/09/19/noticias/1568881130_124893_1568881333_sumario_normal.jpg"
+    },
+    {
+        "id":"5",
+        "title":"Glass",
+        "description":"Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.",
+        "actors": ["Samuel L. Jackson","Bruce Willis","James McAvoy"],
+        "director":"M. Night Shyamalan",
+        "stock":"5",
+        "img":"https://i1.wp.com/www.nolapeles.com/wp-content/uploads/2019/01/glass-poster-m-night-shyamalan.jpg?fit=659%2C849&ssl=1"
+    },
+    {
+        "id":"6",
+        "title":"1917",
+        "description":"April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+        "actors": ["George MacKay","Dean-Charles Chapman","Richard Madden"],
+        "director":"Sam Mendes",
+        "stock":"5",
+        "img":"https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg"
+    },
+    {
+        "id":"7",
+        "title":"Ford vs Ferrari",
+        "description":"American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "actors": ["Matt Damon","Christian Bale","Jon Bernthal"],
+        "director":"James Mangold",
+        "stock":"3",
+        "img":"https://m.media-amazon.com/images/I/81GpDKdcqwL._AC_SL1500_.jpg"
+    },
+    {
+        "id":"8",
+        "title":"Parasite",
+        "description":"Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "actors": ["Kang-ho Song","Lee Sun-kyun","Cho Yeo-jeong"],
+        "director":"Bong Joon Ho",
+        "stock":"7",
+        "img":"https://miro.medium.com/max/897/1*A7RgSOPsn2IGETH4R1A2tw.jpeg"
+    }
+]
